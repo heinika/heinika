@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![heinika's github stats](https://github-readme-stats.vercel.app/api?username=heinika)](https://github.com/heinika/github-readme-stats)
+[![heinika's github stats](https://github-readme-stats.vercel.app/api?username=heinika&theme=dark)](https://github.com/heinika/github-readme-stats)
 
 - 🔭 I’m currently working on dream.
 - 🌱 I’m currently learning coding.
