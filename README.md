@@ -2,14 +2,12 @@
 
 [![heinika's github stats](https://github-readme-stats.vercel.app/api?username=heinika&theme=dark)](https://github.com/heinika/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heinika&layout=compact)](https://github.com/heinika/github-readme-stats)
+
 - 🔭 I’m currently working on dream.
 - 🌱 I’m currently learning coding.
-- 👯 I’m looking to collaborate on Internet.
-- 🤔 I’m looking for help with StackOverFlow
-- 💬 Ask me about Android.
+- 💬 Ask me about Android/Linux/Kotlin.
 - 📫 How to reach me: vip1024056766@gmail.com
-- 😄 Pronouns: work for what your want.
-- ⚡ Fun fact: It's easy.
 
 <!--
 **heinika/heinika** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
