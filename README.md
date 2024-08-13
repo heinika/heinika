@@ -1,9 +1,5 @@
 ### Hi there 👋
 
-[![heinika's github stats](https://github-readme-stats.vercel.app/api?username=heinika&theme=dark)](https://github.com/heinika/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heinika&layout=compact&theme=dark)](https://github.com/heinika/github-readme-stats)
-
 - 🔭 I’m currently working on dream.
 - 🌱 I’m currently learning coding.
 - 💬 Ask me about Android/Linux/Kotlin.
