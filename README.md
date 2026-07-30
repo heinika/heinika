@@ -1,21 +1,14 @@
-### Hi there 👋
+# Hi，我是 heinika 👋
 
-- 🔭 I’m currently working on dream.
-- 🌱 I’m currently learning coding.
-- 💬 Ask me about Android/Linux/Kotlin.
-- 📫 How to reach me: vip1024056766@gmail.com
+我在**技术、设计与好奇心**的交界处工作。
 
-<!--
-**heinika/heinika** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+把复杂信息整理成清楚的结构，把抽象想法转化为可以触摸、点击和使用的作品——从 Android 开发到 Web 体验，从信息设计到 AI 协作创作。
 
-[![heinika's github stats](https://github-readme-stats.vercel.app/api?username=heinika)](https://github.com/heinika/github-readme-stats)
+- 🛠️ 熟悉 **Android / Kotlin / Linux**
+- 🧭 关注 **创意技术、信息设计、AI 协作与地方文化的数字表达**
+- 🗺️ 正在创作一套融合真实地理、地方文化与复古图鉴语言的中国省份视觉系统
+- ✍️ 持续记录开发实践、创作过程与沿途思考
 
-- 🔭 I’m currently working on dream.
-- 🌱 I’m currently learning coding.
-- 👯 I’m looking to collaborate on Internet.
-- 🤔 I’m looking for help with StackOverFlow
-- 💬 Ask me about Android.
-- 📫 How to reach me: vip1024056766@gmail.com
-- 😄 Pronouns: work for what your want.
-- ⚡ Fun fact: It's easy.
--->
+> 先把问题说清楚，让结构先于装饰，再把作品真正交付。
+
+[个人作品集](https://heinika.github.io/) · [Email](mailto:vip1024056766@gmail.com)
